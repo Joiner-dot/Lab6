@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d8149dc-6df4-4726-b2ef-60f92ca19dfe" name="Default Changelist" comment="" />
+    <list default="true" id="0d8149dc-6df4-4726-b2ef-60f92ca19dfe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/U1901Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/U1901Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/U1901Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/U1901Thread.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +35,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -74,6 +79,7 @@
       <workItem from="1583919006935" duration="97000" />
       <workItem from="1584381509385" duration="271000" />
       <workItem from="1584457879699" duration="259000" />
+      <workItem from="1584482489820" duration="36000" />
     </task>
     <servers />
   </component>
